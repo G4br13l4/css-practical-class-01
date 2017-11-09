@@ -1,0 +1,20 @@
+div {
+	width:200px; /*Define el ancho de la fila*/
+	height: 100px; /*Pones el ancho de las filas*/
+	padding: 10px 0px 0px 5px; /*Creo ancho y largo de las filas*/
+	margin-bottom: 10px; /* margen de abajo de cada elemento*/
+	display: inline-block; /* lo pone al mismo nivel de forma delgada con inline solito y en bloque en linea con inline-block (ultimo ejer)*/
+
+}
+
+.bandera-amarilla{
+	background-color: #FFC107;
+}
+
+.bandera-gris{
+	background-color: #2B2B2B;
+	color: #FFF;
+}
+
+
+
